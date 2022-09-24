@@ -1,0 +1,3 @@
+- Creating a Github accout
+- added my ssh key by ssh-keygen- t ed25519
+- push to a master branch of another account
